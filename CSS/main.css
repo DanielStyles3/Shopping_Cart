@@ -88,6 +88,7 @@ nav .navbar-top {
     left: 100px;
     width: 150px;
     height: 75px;
+    -webkit-text-stroke: .5px red;
 }
 
 #menuButton {
